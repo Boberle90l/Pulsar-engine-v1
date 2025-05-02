@@ -18,10 +18,12 @@ first designs and sketches on Paper
 basic information about the pulsar engines
 projekt for ducumentation on github
 
-#nechst steps
+#next steps
 
-*tests on the first prototype
-*creating of sketches
+tests on the first prototype
+
+creating of sketches
+
 optimizing of the prototype so it runs perfectly in the end
 creation of an webside for full documentation of other and future projekts
 
