@@ -13,10 +13,11 @@ my goal is it to realy understand the technick not only theoreticly also practic
 #current progres
 
 i am currently in the planing phase current progress
-first prototype
-first designs and sketches on Paper
-basic information about the pulsar engines
-projekt for ducumentation on github
+
+1. first prototype
+2. first designs and sketches on Paper
+3. basic information about the pulsar engines
+4. projekt for ducumentation on github
 
 #next steps
 
@@ -29,7 +30,7 @@ projekt for ducumentation on github
 
 im intesrestet in aerospace since years (engineerin) with this projekt i want to:
 
--learn how rocket engines work
--collect praktikal expirience
--to show that even as a pupil you can do big
--a ground for competitions and for my future aplycation at the MIT
+1. learn how rocket engines work
+2.  collect praktikal expirience
+3. to show that even as a pupil you can do big
+4. a ground for competitions and for my future aplycation at the MIT
