@@ -30,6 +30,6 @@ creation of an webside for full documentation of other and future projekts
 im intesrestet in aerospace since years (engineerin) with this projekt i want to:
 
 -learn how rocket engines work
-collect praktikal expirience
-to show that even as a pupil you can do big
-a ground for competitions and for my future aplycation at the MIT
+-collect praktikal expirience
+-to show that even as a pupil you can do big
+-a ground for competitions and for my future aplycation at the MIT
