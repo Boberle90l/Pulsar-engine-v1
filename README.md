@@ -20,11 +20,13 @@ projekt for ducumentation on github
 
 #next steps
 
+
 tests on the first prototype
 
 creating of sketches
 
 optimizing of the prototype so it runs perfectly in the end
+
 creation of an webside for full documentation of other and future projekts
 
 #why do i do all of this
