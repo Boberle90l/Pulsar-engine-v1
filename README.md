@@ -20,10 +20,10 @@ projekt for ducumentation on github
 
 #next steps
 
-1tests on the first prototype
-2creating of sketches
-optimizing of the prototype so it runs perfectly in the end
-creation of an webside for full documentation of other and future projekts
+1. tests on the first prototype
+2. creating of sketches
+3. optimizing of the prototype so it runs perfectly in the end
+4. creation of an webside for full documentation of other and future projekts
 
 #why do i do all of this
 
