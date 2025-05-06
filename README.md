@@ -40,3 +40,10 @@ Goal of the Projekt is
 to develop pulsjet engines working on the easy prinzipial of an jamjet engine for experimental and test uses i also want to understand the engine the physik behind it and also the different nozzle forms and types and how the fuel impacts the thrust of the jet engine
 
 this projekt is the entry for the world of rocketscience and is the beginning of komplex development for the future
+
+
+funktion of the jam jet engine 
+
+the jamjet engine ist a simple air breathing jet engine without moving parts the thrust is generated due to small explosions in the Combustionchamber
+to start the engine you fill a little bit of the lower part with an Engine fule (ethanol) you let it then sit for a while so the gas air mixture can form and can expand inside of the jar then you ignite the gas in the jar wich will cause an explosion inside of the jar
+which generates a high amount of pressure which will then fire the hot gases out of the nozzle that generates thrust (3 newton law)
