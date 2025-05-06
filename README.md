@@ -34,3 +34,9 @@ im intesrestet in aerospace since years (engineerin) with this projekt i want to
 2.  collect praktikal expirience
 3. to show that even as a pupil you can do big
 4. a ground for competitions and for my future aplycation at the MIT
+
+Goal of the Projekt is
+
+to develop pulsjet engines working on the easy prinzipial of an jamjet engine for experimental and test uses i also want to understand the engine the physik behind it and also the different nozzle forms and types and how the fuel impacts the thrust of the jet engine
+
+this projekt is the entry for the world of rocketscience and is the beginning of komplex development for the future
