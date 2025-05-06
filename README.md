@@ -42,7 +42,7 @@ to develop pulsjet engines working on the easy prinzipial of an jamjet engine fo
 this projekt is the entry for the world of rocketscience and is the beginning of komplex development for the future
 
 
-funktion of the jam jet engine 
+Funktion of the jam jet engine 
 
 
 the jamjet engine ist a simple air breathing jet engine without moving parts the thrust is generated due to small explosions in the Combustionchamber
