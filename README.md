@@ -46,4 +46,7 @@ funktion of the jam jet engine
 
 the jamjet engine ist a simple air breathing jet engine without moving parts the thrust is generated due to small explosions in the Combustionchamber
 to start the engine you fill a little bit of the lower part with an Engine fule (ethanol) you let it then sit for a while so the gas air mixture can form and can expand inside of the jar then you ignite the gas in the jar wich will cause an explosion inside of the jar
-which generates a high amount of pressure which will then fire the hot gases out of the nozzle that generates thrust (3 newton law)
+which generates a high amount of pressure which will then fire the hot gases out of the nozzle that generates thrust (3 newton law) due to the fast pressure switch negative pressure builds up which then sucks innew air also through the nozzle thats why the prozes repeats itsself
+
+the engine uses an selfingnition zykle to generate the thrust
+
