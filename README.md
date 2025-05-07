@@ -62,4 +62,4 @@ test overview
 
 ## more test results
 
-[trust test](
+[trust test](Thrust tests/)
