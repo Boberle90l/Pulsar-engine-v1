@@ -62,4 +62,4 @@ test overview
 
 ## more test results
 
-- [thrust tests](Trust test.md)
+[all thrust test results you can find in here](https://github.com/Boberle90l/Pulsar-engine-v1/blob/main/Thrust%20tests)
