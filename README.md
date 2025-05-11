@@ -22,8 +22,8 @@ i am currently in the planing phase current progress
 #next steps
 
 1. tests on the first prototype
-2. creating of sketches
-3. optimizing of the prototype so it runs perfectly in the end
+2. test of an laval nosel
+3. comparison of differnt nosel geometry
 4. creation of an webside for full documentation of other and future projekts
 
 #why do i do all of this
