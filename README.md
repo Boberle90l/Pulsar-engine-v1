@@ -63,3 +63,23 @@ test overview
 ## more test results
 
 [all thrust test results you can find in here](https://github.com/Boberle90l/Pulsar-engine-v1/blob/main/Thrust%20tests)
+
+### 🔬 Jet-Engine-tests – amount of fuel vs. thrust & durance
+| Version | Mass  (g) | Thrust | duration (s)  |
+|---------|-----------|--------|---------------|
+| V1      | 10        | 18     | 4             |
+| V1      | 10        | 16     | 1.83          |
+| V1      | 10        | 24     | ≥10           |
+| V1      | 10        | 18     | ≥10           |
+| V2      | 20        | 14     | 1             |
+| V2      | 20        | 21     | ≥10           |
+| V2      | 20        | 16     | ≥10           |
+| V2      | 20        | 16     | ≥10           |
+| V3      | 30        | 18     | ≥10           |
+| V3      | 30        | 19     | 7             |
+| V3      | 30        | 5      | 1             |
+| V4      | 40        | 20     | ≥10           |
+| V4      | 40        | 11     | 8             |
+| V4      | 40        | 20     | 14            |
+| V4      | 40        | 20     | 12            |
+
